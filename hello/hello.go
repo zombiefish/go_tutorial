@@ -2,8 +2,7 @@ package main
 
 import {
 	"fmt"
-
-	"github.com/zombiefish/go-tutorial"
+	"github.com/zombiefish/go_tutorial/blob/master/greetings/greetings.go"
 }
 
 func main() {
